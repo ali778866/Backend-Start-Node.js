@@ -1,0 +1,23 @@
+{
+  "name": "backend-start-node",
+  "version": "1.0.0",
+  "description": "Complete Node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ali778866/Backend-Start-Node.js.git"
+  },
+  "author": "MD ALI ANSARI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ali778866/Backend-Start-Node.js/issues"
+  },
+  "homepage": "https://github.com/ali778866/Backend-Start-Node.js#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
